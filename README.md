@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Youness Khanjar. I am currently completing a Master's degree in Applied Mathematics at Université Paul Sabatier in Toulouse, France. I am developping my skills in machine learning, deep learning and programing. Here you can take a glance at some of the projects I have been working on:
 <!--
 **YouKhanjar/YouKhanjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
